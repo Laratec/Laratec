@@ -1,65 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1a24,100:301b3f&height=180&section=header&text=Hi,%20I'm%20Lara!%20✦&fontSize=35&fontColor=ffb7c5&animation=fadeIn&fontAlignY=38&desc=Student%20•%20Web%20Development%20&%20Cybersecurity&descSize=15&descColor=d8b4fe" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=500&lines=learning+web+development;exploring+cybersecurity;curious+about+the+world+%F0%9F%8C%8E" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Lara&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Web%20Development%20%26%20Cybersecurity%20Student&descSize=16&descColor=b8b8d1&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
 
-<div align="center">
+### 🖤 About Me
 
-| | |
-|---|---|
-| 🌸 | Web Development & Cybersecurity |
-| 🌎 | International Relations & Geopolitics |
-| ✦ | Anime & aesthetic vibes |
+Student exploring **web development** and the fundamentals of **cybersecurity** — I like understanding how things work behind the screen, and how they break.
 
-</div>
+Outside of code, I'm into **international relations**, **geopolitics**, **languages**, and **Japanese culture**.
 
 <br>
 
-## 🌙 About me
-
-- 🎧 Exploring technology, programming, and cybersecurity — figuring out how everything works behind the screen.
-- ⚡ I learn by building: experimenting with code and breaking things on purpose to understand them.
-- 🎌 Outside of tech, I'm into international relations, geopolitics, languages, and Japanese culture.
-
-<br>
-
----
-
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux&theme=dark" />
 </p>
 
-**Currently learning:** `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
+<br>
 
----
-
-## 🎧 Beyond Code
-
-- 🌎 International Relations & geopolitics
-- 📚 Languages 
-- ✈️ Exploring different countries and cultures
-
----
+### 📊 GitHub Stats
 
 <div align="center">
-  <h3>🖤 My space</h3>
-  <p><i>«Learning, creating, and figuring things out one line of code at a time.»</i></p>
-
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=laratec&color=ffb7c5&style=flat-square&label=Profile+Views" alt="Visitor Count" />
-
-  <p><i>Thanks for visiting my profile ✦</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=laratec&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laratec&hide_border=true&theme=tokyonight&background=0d1117" width="49%"/>
 </div>
+
+<br>
+
+### 🎯 Current Focus
+
+```js
+const lara = {
+  learning: ["JavaScript", "Cybersecurity Fundamentals"],
+  buildingWith: ["HTML", "CSS", "Git"],
+  currentlyInto: ["Web Security", "OSINT basics"],
+};
+```
+
+<br>
+
+### 🌙 Beyond Code
+
+| 🌎 | 📚 | 🎌 | ✦ |
+|---|---|---|---|
+| International Relations | Languages | Japanese Culture | Anime |
+
+<br>
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/laratec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:1f1a24,0:301b3f&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
-
