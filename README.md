@@ -1,56 +1,65 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&section=header&text=laratec&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=dev%20%2B%20cybersecurity&descAlignY=60&descSize=18" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=web+development;cybersecurity;always+learning" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### sobre
-
-Estudante de desenvolvimento web e cibersegurança.
-Gosto de entender como as coisas funcionam — e como quebram.
-
-</td>
-<td width="50%" valign="top">
-
-### stack
-
-`HTML` `CSS` `JavaScript` `Python` `Git` `Linux`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=laratec&show_icons=true&hide_border=true&theme=default&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=1a1a1a&hide_rank=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laratec&layout=compact&hide_border=true&theme=default&bg_color=ffffff&title_color=000000&text_color=1a1a1a)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1a24,100:301b3f&height=180&section=header&text=Hi,%20I'm%20Lara!%20✦&fontSize=35&fontColor=ffb7c5&animation=fadeIn&fontAlignY=38&desc=Student%20•%20Web%20Development%20&%20Cybersecurity&descSize=15&descColor=d8b4fe" />
 </div>
 
 <div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=laratec&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=888888&currStreakNum=000000&sideNums=000000)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=500&lines=learning+web+development;exploring+cybersecurity;curious+about+the+world+%F0%9F%8C%8E" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
 
-⸻
-
-<sub>laratec</sub>
+| | |
+|---|---|
+| 🌸 | Web Development & Cybersecurity |
+| 🌎 | International Relations & Geopolitics |
+| ✦ | Anime & aesthetic vibes |
 
 </div>
+
+<br>
+
+## 🌙 About me
+
+- 🎧 Exploring technology, programming, and cybersecurity — figuring out how everything works behind the screen.
+- ⚡ I learn by building: experimenting with code and breaking things on purpose to understand them.
+- 🎌 Outside of tech, I'm into international relations, geopolitics, languages, and Japanese culture.
+
+<br>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux&theme=dark" />
+</p>
+
+**Currently learning:** `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
+
+---
+
+## 🎧 Beyond Code
+
+- 🌎 International Relations & geopolitics
+- 📚 Languages 
+- ✈️ Exploring different countries and cultures
+
+---
+
+<div align="center">
+  <h3>🖤 My space</h3>
+  <p><i>«Learning, creating, and figuring things out one line of code at a time.»</i></p>
+
+  <br>
+
+  <img src="https://komarev.com/ghpvc/?username=laratec&color=ffb7c5&style=flat-square&label=Profile+Views" alt="Visitor Count" />
+
+  <p><i>Thanks for visiting my profile ✦</i></p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:1f1a24,0:301b3f&height=100&section=footer" />
+</div>
+
